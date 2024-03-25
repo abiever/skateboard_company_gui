@@ -11,7 +11,7 @@ Below are some simple videos demonstrating the basic functionality of the applic
 <img src="/demo_gifs/add-part.gif" width="650" height="300"/>
 
 ## Modify Part 
-<img src="/demo_gifs/modify_part.gif" width="650" height="300"/>
+<img src="/demo_gifs/modify_part.gif.gif" width="650" height="300"/>
 
 ## Delete Part 
 <img src="/demo_gifs/delete_part.gif" width="650" height="300"/>
@@ -26,19 +26,19 @@ Below are some simple videos demonstrating the basic functionality of the applic
 <img src="/demo_gifs/search_items.gif" width="650" height="300"/>
 
 # Built Using
-• JavaFX
-• Maven
+• JavaFX <br>
+• Maven <br>
 
 # Challenges Overcome & Lessons Learned
-• Learning about Inheritance and implementing it was difficult, as there were two different kinds of parts that needed to be represented as their own class from a basic super class.
-• At this point in time, this was the largest code base I had ever created or worked with, so staying on top of comments and documentation was necessary both while building the project and so that when I came back to it after significant absence I could pick up where I left off. 
-• Packaging the JAR file so that the application would run by itself outside of an IDE was an incredibly frustrating process, but I succeeded in sifting through documentation and command line troubleshooting to properly package everything and run it successfully. 
+• Learning about Inheritance and implementing it was difficult, as there were two different kinds of parts that needed to be represented as their own class from a basic super class. <br>
+• At this point in time, this was the largest code base I had ever created or worked with, so staying on top of comments and documentation was necessary both while building the project and so that when I came back to it after significant absence I could pick up where I left off. <br>
+• Packaging the JAR file so that the application would run by itself outside of an IDE was an incredibly frustrating process, but I succeeded in sifting through documentation and command line troubleshooting to properly package everything and run it successfully. <br>
 
 # Current Known Issues
-• There are moments when a Product will not delete correctly
-• The application window itself does not resize properly when prompted by the user.
+• There are moments when a Product will not delete correctly <br>
+• The application window itself does not resize properly when prompted by the user. <br>
 
 # Planned Updates
-• Adding a dedicated backend so that data can persist across machines and application instances
-• Improving deletion functionality so that mass deletion of parts or products can be possible
-• Creating a login screen so that security is enhanced
+• Adding a dedicated backend so that data can persist across machines and application instances <br>
+• Improving deletion functionality so that mass deletion of parts or products can be possible <br>
+• Creating a login screen so that security is enhanced <br>
